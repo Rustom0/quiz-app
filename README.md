@@ -23,7 +23,7 @@ A simple interactive quiz application built using **HTML, CSS, and JavaScript**.
 4. Repeat until all questions are answered.
 5. The **final score** is displayed at the end.
 
-## Future Improvements
+🎯 Future Improvements
 - Add more questions dynamically from a database or API
 - Implement a timer for each question
 - Allow users to select different quiz categories
