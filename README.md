@@ -28,7 +28,7 @@ A simple interactive quiz application built using **HTML, CSS, and JavaScript**.
 - Implement a timer for each question
 - Allow users to select different quiz categories
 
-##📌 License
+## 📌 License
 This project is open-source and free to use.
 
 Feel free to contribute, raise issues, or suggest improvements! 🚀
